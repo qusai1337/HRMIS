@@ -19,9 +19,9 @@ human-rights-monitor/
 │   ├── models/
 │   ├── database.py
 │   └── requirements.txt
-├── frontend/
+├── dashboard/
 │   └── dashboard.py  # Streamlit dashboard
-├── postman/
+├──
 │   └── hrm_postman_collection.json
 └── README.md
 ```
